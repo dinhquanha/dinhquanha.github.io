@@ -7,6 +7,10 @@ p {
     font-style:oblique;
 }
 img{
-    height: 100px;
-    width: 100px;
+    height: 300px;
+    width: 500px;
+}
+.BOARD {
+    height: 300px;
+    width: 300px;
 }
